@@ -65,6 +65,10 @@ button {
 #container {
     background: #F4F4F4;
     padding: 18px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .result-el {
