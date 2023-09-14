@@ -74,6 +74,7 @@ button {
     border-top-left-radius: 5px;
     min-height: 109px;
     margin-bottom: 23px;
+    max-width: 500px;
 }
 
 h3 {
