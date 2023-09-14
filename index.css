@@ -73,12 +73,13 @@ button {
 
 .result-el {
     background: white;
+    padding: 0 8px;
     text-align: center;
     font-size: 20px;
     border-top-left-radius: 5px;
     min-height: 109px;
     margin-bottom: 23px;
-    max-width: 500px;
+    min-width: 500px;
 }
 
 h3 {
